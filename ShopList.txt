@@ -4,3 +4,5 @@ Milk
 Carrots
 Juice
 Apples
+Yoghurt
+Sushi
