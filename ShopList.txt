@@ -2,3 +2,5 @@ Shopping List:
 
 Milk
 Carrots
+Juice
+Apples
