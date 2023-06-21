@@ -6,3 +6,5 @@ Juice
 Apples
 Yoghurt
 Sushi
+Ijsjes
+Snoepjes
